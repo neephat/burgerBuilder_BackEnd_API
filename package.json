@@ -4,11 +4,7 @@
   "description": "This is an api for burger builder app",
   "main": "index.js",
   "scripts": {
-    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "engines": {
-    "node": "18.14.0"
   },
   "author": "Neephat Benazir",
   "license": "ISC",
